@@ -1,0 +1,22 @@
+{
+  "name": "barang",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "export": "nuxt export",
+    "serve": "nuxt serve"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "axios": "^0.19.2",
+    "nuxt": "^2.13.0",
+    "sweetalert": "^2.1.2"
+  },
+  "devDependencies": {
+    "@mdi/font": "^5.4.55",
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
